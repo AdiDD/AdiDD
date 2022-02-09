@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ASP.NET core and React**
 
-- 💬 Ask me about **ASP.NET, EF Core, C#**
+- 💬 Ask me about **ASP.NET core, EF Core, C#**
 
 - 📫 How to reach me **adi.deaconu21@gmail.com**
 
