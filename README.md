@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Deaconu</h1>
 <h3 align="center">A passionate full-stack developer from Romania</h3>
 
-- 🔭 I’m currently working on [Fleet Manager](https://github.com/adidd/fleet-manager-api)
-
-- 🌱 I’m currently learning **ASP.NET core and React**
-
-- 💬 Ask me about **ASP.NET core, EF Core, C#**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **adi.deaconu21@gmail.com**
 
