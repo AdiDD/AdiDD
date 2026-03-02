@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Adrian Deaconu</h1>
+<h1 align="center">Hi, I'm Adi</h1>
 <h3 align="center">A passionate full-stack developer from Romania</h3>
 
 - Currently working at IQNOX.
 
-- 📫 How to reach me **adi.deaconu21@gmail.com**
+- How to reach me **adi.deaconu21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
